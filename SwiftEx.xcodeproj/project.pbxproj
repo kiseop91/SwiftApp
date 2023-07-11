@@ -28,6 +28,7 @@
 		BFA8FF402A4F1C0F0025EE7F /* SwiftExUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA8FF3F2A4F1C0F0025EE7F /* SwiftExUITestsLaunchTests.swift */; };
 		BFA8FF4D2A50593B0025EE7F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA8FF4C2A50593B0025EE7F /* CircleImage.swift */; };
 		BFA8FF4F2A505C290025EE7F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA8FF4E2A505C290025EE7F /* MapView.swift */; };
+		BFF16C2B2A5D818100659533 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF16C2A2A5D818100659533 /* FavoriteButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		BFA8FF3F2A4F1C0F0025EE7F /* SwiftExUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftExUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		BFA8FF4C2A50593B0025EE7F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		BFA8FF4E2A505C290025EE7F /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		BFF16C2A2A5D818100659533 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BFA8FF4E2A505C290025EE7F /* MapView.swift */,
 				BF6598072A516BB60018C1CE /* LandmarkRow.swift */,
 				BF65980A2A51773D0018C1CE /* LandmarkList.swift */,
+				BFF16C2A2A5D818100659533 /* FavoriteButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				BFA8FF252A4F1C0E0025EE7F /* ContentView.swift in Sources */,
 				BFA8FF4F2A505C290025EE7F /* MapView.swift in Sources */,
 				BFA8FF232A4F1C0E0025EE7F /* SwiftExApp.swift in Sources */,
+				BFF16C2B2A5D818100659533 /* FavoriteButton.swift in Sources */,
 				BF65980B2A51773D0018C1CE /* LandmarkList.swift in Sources */,
 				BF65980E2A51CB4A0018C1CE /* LandmarkDetail.swift in Sources */,
 				BFA8FF4D2A50593B0025EE7F /* CircleImage.swift in Sources */,
